@@ -1,4 +1,4 @@
-#Curs de ESC
+#Curs de ESC/n
 ##Nume:Cotoflea Simone Andrei
 ##Varsta 19ani
 ##inaltime 169cm
