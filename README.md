@@ -5,3 +5,9 @@
 <p>marime la pantof 41-42</p>
 
 
+.p
+{
+margin-top: 10%;    
+}
+
+
