@@ -1,4 +1,5 @@
-#Curs de ESC/n
+#Curs de ESC
+<p> Cel mai smecher</p>
 ##Nume:Cotoflea Simone Andrei
 ##Varsta 19ani
 ##inaltime 169cm
